@@ -20,8 +20,9 @@ html,body{
 .window
 {
     position: absolute;
-    top: 35%;
-    left: 37%;
+    top:350px;
+    left: 50%;
+    transform: translate(-50%, 0);
     padding: 15px;
     width: 460px;
     background-color: rgb(225,255,115);
